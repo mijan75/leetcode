@@ -1,5 +1,1 @@
-## ###leetcode problems solution using java
-
-mijan
-kkjhkjhkjh
-dlfldjfljdlkjflkj
+## leetcode problems solution using java
